@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
-import BitByBitNav from "../BitByBit/BitByBitNav.jsx";
-import CosmicBackground from "../BitByBit/CosmicBackground.jsx";
-import cluesData from "../BitByBit/treasure-hunt-clues.json";
+import BitByBitNav from "../BitbyBit/BitByBitNav.jsx";
+import CosmicBackground from "../BitbyBit/CosmicBackground.jsx";
+import cluesData from "../BitbyBit/treasure-hunt-clues.json";
 import "./BitByBit.css";
 
 function BitByBit() {
