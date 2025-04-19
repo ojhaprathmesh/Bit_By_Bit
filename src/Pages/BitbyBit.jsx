@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import BitByBitNav from "../BitbyBit/BitbyBitNav.jsx";
 import CosmicBackground from "../BitbyBit/CosmicBackground.jsx";
 import cluesData from "../BitbyBit/treasure-hunt-clues.json";
-import "./BitByBit.css";
+import "./BitbyBit.css";
 
 function BitByBit() {
   const [userInput, setUserInput] = useState("");
